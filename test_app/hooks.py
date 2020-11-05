@@ -5,9 +5,9 @@ from . import __version__ as app_version
 app_name = "test_app"
 app_title = "Test App"
 app_publisher = "Abhishek Balam"
-app_description = "Release"
+app_description = "Release Testing"
 app_icon = "octicon octicon-file-directory"
-app_color = "blue"
+app_color = "green"
 app_email = "abhishekbalam96@gmail.com"
 app_license = "MIT"
 
